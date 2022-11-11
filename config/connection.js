@@ -11,7 +11,6 @@ if (process.env.JAWSDB_URL) {
         dialect: 'mysql',
         port: 3306,
         // user: "root",
-        // password: "Addicted93!",
         // database: "tech_blog_db"
     });
 }
