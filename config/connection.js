@@ -10,9 +10,9 @@ if (process.env.JAWSDB_URL) {
         host: 'localhost',
         dialect: 'mysql',
         port: 3306,
-        user: "root",
-        password: "Addicted93!",
-        database: "tech_blog_db"
+        // user: "root",
+        // password: "Addicted93!",
+        // database: "tech_blog_db"
     });
 }
 
