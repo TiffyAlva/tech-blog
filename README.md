@@ -24,7 +24,7 @@ https://tiffyalva-tech-blog.herokuapp.com/
 ## Visuals:
 
 - Mock Up
-![](./MockUp.jpg)
+![](./public/images/MockUp.jpg)
 
 ## Tools Used: 
 - mysql2
