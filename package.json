@@ -1,5 +1,5 @@
 {
-  "name": "tech-blog-challenge-14",
+  "name": "tech-blog",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -19,13 +19,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TiffyAlva/tech-blog-challenge-14.git"
+    "url": "git+https://github.com/TiffyAlva/tech-blog.gitgit"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/TiffyAlva/tech-blog-challenge-14/issues"
+    "url": "https://github.com/TiffyAlva/tech-blog.git/issues"
   },
-  "homepage": "https://github.com/TiffyAlva/tech-blog-challenge-14#readme"
+  "homepage": "https://github.com/TiffyAlva/tech-blog.git#readme"
 }
