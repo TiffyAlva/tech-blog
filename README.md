@@ -1,4 +1,4 @@
-# Tech Blog
+# Tech Blog testingg
 
 ## Description:
 - This app allows various different users to create an account and post their blog posts. Users can also  delete and edit their own posts. Also, it allows them to comment on posts from others users.
